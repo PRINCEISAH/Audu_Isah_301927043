@@ -25,13 +25,13 @@ Both sessions first read 1. Without locking, both wrote 2 and one increment was 
 
 ## Files and order
 
-Run the Portfolio 1 schema and sample data in a fresh database, then Audu_Isah_301927043_P3_Transactions.sql. Open two psql terminals connected to that same database. Follow steps 1–9 across SessionA.sql and SessionB.sql; run step 5 in Session A outside a transaction.
+Run the Portfolio 1 schema and sample data in a fresh database, then Audu_Isah_P3_Transactions.sql. Open two psql terminals connected to that same database. Follow steps 1–9 across SessionA.sql and SessionB.sql; run step 5 in Session A outside a transaction.
 
-- [Transactions](Audu_Isah_301927043_P3_Transactions.sql)
-- [Session A](Audu_Isah_301927043_P3_SessionA.sql)
-- [Session B](Audu_Isah_301927043_P3_SessionB.sql)
-- [Commit and rollback](screenshots/Audu_Isah_301927043_P3_CommitRollback.png)
-- [Concurrency](screenshots/Audu_Isah_301927043_P3_ConcurrencyResult.png)
+- [Transactions](Audu_Isah_P3_Transactions.sql)
+- [Session A](Audu_Isah_P3_SessionA.sql)
+- [Session B](Audu_Isah_P3_SessionB.sql)
+- [Commit and rollback](screenshots/Audu_Isah_P3_CommitRollback.png)
+- [Concurrency](screenshots/Audu_Isah_P3_ConcurrencyResult.png)
 
 ## References
 

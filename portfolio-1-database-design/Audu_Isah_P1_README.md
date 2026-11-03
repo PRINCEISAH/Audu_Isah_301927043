@@ -14,13 +14,13 @@ The 24 invalid inserts were rejected at their expected constraints, and the vali
 
 ## Files
 
-- [Design](Audu_Isah_301927043_P1_Design.md)
-- [ER diagram](Audu_Isah_301927043_P1_ERDiagram.md)
-- [Normalisation](Audu_Isah_301927043_P1_Normalisation.md)
-- [Schema](Audu_Isah_301927043_P1_Schema.sql)
-- [Sample data](Audu_Isah_301927043_P1_SampleData.sql)
-- [Constraint tests](Audu_Isah_301927043_P1_ConstraintTests.sql)
-- [Table and constraint evidence](screenshots/Audu_Isah_301927043_P1_DatabaseResults.png)
+- [Design](Audu_Isah_P1_Design.md)
+- [ER diagram](Audu_Isah_P1_ERDiagram.md)
+- [Normalisation](Audu_Isah_P1_Normalisation.md)
+- [Schema](Audu_Isah_P1_Schema.sql)
+- [Sample data](Audu_Isah_P1_SampleData.sql)
+- [Constraint tests](Audu_Isah_P1_ConstraintTests.sql)
+- [Table and constraint evidence](screenshots/Audu_Isah_P1_DatabaseResults.png)
 
 ## Run the SQL
 

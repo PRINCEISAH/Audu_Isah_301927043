@@ -29,4 +29,4 @@ erDiagram
 
 PK identifies a record; FK links to another table; UK marks a single-field unique value. The relationship ends show exactly one, zero or one, or zero or many records. Composite unique keys and conditional rules are listed in the schema and design.
 
-[Diagram image](../images/Audu_Isah_301927043_ERDiagram.png)
+[Diagram image](../images/Audu_Isah_ERDiagram.png)

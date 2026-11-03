@@ -120,9 +120,9 @@ Execution Time: 0.179 ms
 
 ## Reproduce
 
-Use a fresh database with the Portfolio 1 schema and sample data. Run Audu_Isah_301927043_P2_Queries.sql, then Audu_Isah_301927043_P2_Optimisation.sql. The optimisation script creates a separate performance table and runs EXPLAIN (ANALYZE, BUFFERS).
+Use a fresh database with the Portfolio 1 schema and sample data. Run Audu_Isah_P2_Queries.sql, then Audu_Isah_P2_Optimisation.sql. The optimisation script creates a separate performance table and runs EXPLAIN (ANALYZE, BUFFERS).
 
-[Query screenshot](screenshots/Audu_Isah_301927043_P2_QueryResults.png) · [Index comparison](screenshots/Audu_Isah_301927043_P2_IndexComparison.png)
+[Query screenshot](screenshots/Audu_Isah_P2_QueryResults.png) · [Index comparison](screenshots/Audu_Isah_P2_IndexComparison.png)
 
 ## References
 
